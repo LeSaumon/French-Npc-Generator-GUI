@@ -288,3 +288,9 @@ export default class MenuBuilder {
     return templateDefault;
   }
 }
+// Boubou: ghvbgkvwjj@privaterelay.appleid.com
+// Coline: colinesaintillan@gmails.com
+// Petit: p.roy0799@laposte.net
+// Alex: gerboin.alex@gmail.com
+// Lulu: lucas6delaunay@laposte.net
+// Maël: maupillier.mael@gmail.com
